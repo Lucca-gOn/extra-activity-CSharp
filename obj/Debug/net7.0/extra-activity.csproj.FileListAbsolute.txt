@@ -1,0 +1,15 @@
+C:\Users\Pc\Desktop\extra-activity\bin\Debug\net7.0\extra-activity.exe
+C:\Users\Pc\Desktop\extra-activity\bin\Debug\net7.0\extra-activity.deps.json
+C:\Users\Pc\Desktop\extra-activity\bin\Debug\net7.0\extra-activity.runtimeconfig.json
+C:\Users\Pc\Desktop\extra-activity\bin\Debug\net7.0\extra-activity.dll
+C:\Users\Pc\Desktop\extra-activity\bin\Debug\net7.0\extra-activity.pdb
+C:\Users\Pc\Desktop\extra-activity\obj\Debug\net7.0\extra-activity.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\extra-activity\obj\Debug\net7.0\extra-activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\extra-activity\obj\Debug\net7.0\extra-activity.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\extra-activity\obj\Debug\net7.0\extra-activity.AssemblyInfo.cs
+C:\Users\Pc\Desktop\extra-activity\obj\Debug\net7.0\extra-activity.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\extra-activity\obj\Debug\net7.0\extra-activity.dll
+C:\Users\Pc\Desktop\extra-activity\obj\Debug\net7.0\refint\extra-activity.dll
+C:\Users\Pc\Desktop\extra-activity\obj\Debug\net7.0\extra-activity.pdb
+C:\Users\Pc\Desktop\extra-activity\obj\Debug\net7.0\extra-activity.genruntimeconfig.cache
+C:\Users\Pc\Desktop\extra-activity\obj\Debug\net7.0\ref\extra-activity.dll
